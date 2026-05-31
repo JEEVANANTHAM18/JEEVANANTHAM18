@@ -1,16 +1,240 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**JEEVANANTHAM18/JEEVANANTHAM18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jeevanantham%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engineer%20%7C%20IoT%20Builder%20%7C%20Network%20Tinkerer%20%7C%20Registered%20Inventor&descAlignY=62&descSize=16)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I%27m+Jeevanantham+%F0%9F%91%8B;IoT+%7C+Networking+%7C+AI+%26+Data+Analytics;Registered+Inventor+%E2%80%94+2+Govt.+of+India+Designs;B.E.+CSE+%40+Sathyabama+Institute+%7C+Class+of+2027)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=jeevanantham-s&color=70a5fd&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
+class Jeevanantham:
+    def __init__(self):
+        self.name        = "Jeevanantham S"
+        self.location    = "Chennai, Tamil Nadu, India"
+        self.degree      = "B.E. Computer Science & Engineering (2023–2027)"
+        self.university  = "Sathyabama Institute of Science and Technology"
+        self.email       = "jeevanantham.s2551981@gmail.com"
+
+        self.stack = [
+            "Python", "C/C++", "HTML", "CSS",
+            "JavaScript", "Node.js", "Networking"
+        ]
+
+        self.ml_tools = [
+            "Scikit-learn", "Pandas", "Matplotlib"
+        ]
+
+        self.currently_learning = [
+            "Linux", "SQL", "Git",
+            "Advanced JavaScript", "IoT Systems"
+        ]
+
+        self.patents = [
+            "Automatic Pill Dispenser (Design No: 469737-001)",
+            "AI Enabled Animal Belt (Design No: 470439-001)"
+        ]
+
+        self.fun_fact = (
+            "I've registered 2 government designs "
+            "before finishing my 3rd year of college! 🚀"
+        )
+
+    def motto(self):
+        return "Build things that matter. Document things that last."
+```
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### 🚀 Frameworks & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+### 🗄️ Databases & Tools
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=raspberrypi&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/jeevanantham-s">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jeevanantham-s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+</a>
+<a href="https://github.com/jeevanantham-s">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanantham-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+</a>
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeevanantham-s&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Jeevanantham's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeevanantham-s&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 Trophy Wall
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=jeevanantham-s&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💼 Experience
+
+<details>
+<summary>🌐 <strong>Cisco Virtual Internship</strong> — Networking & Cybersecurity · 2 Months</summary>
+
+> `Networking` `Cybersecurity` `Cisco Packet Tracer` `OSPF` `ARP` `ICMP`
+
+- Completed a 2-month virtual internship focused on Networking and Cybersecurity fundamentals with Cisco.
+- Gained hands-on exposure to packet simulation using Cisco Packet Tracer, covering protocols like ARP, ICMP, and OSPF.
+- Developed understanding of network security principles and routing/switching configurations.
+
+</details>
+
+<details>
+<summary>🤖 <strong>AICTE–Shell India–Edunet Foundation Internship</strong> — AI & Data Analytics · July–August 2025 (4 Weeks)</summary>
+
+> `Python` `Pandas` `Matplotlib` `Scikit-learn` `Machine Learning` `Data Analytics`
+
+- Participated in a 4-week intensive internship covering AI and Data Analytics in collaboration with AICTE, Shell India Pvt. Ltd., and Edunet Foundation.
+- Applied Python-based ML tools — Scikit-learn, Pandas, and Matplotlib — to real-world datasets.
+- Strengthened analytical and problem-solving abilities through guided projects on data-driven decision-making.
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🗂️ Project | 🛠️ Stack | ✨ Highlights |
+|:---|:---|:---|
+| [**Fault Identification in Overhead Transmission Lines**](https://github.com/jeevanantham-s) | `IoT` `Sensors` `Embedded Systems` `Python` | IoT-enabled real-time fault detection with relay-based isolation & remote monitoring. Analysed abnormal voltage/current patterns via sensor data acquisition. Jan 2026–Present |
+| [**Network Simulation & Validation Tool**](https://github.com/jeevanantham-s) | `Python` `Multithreading` `Cisco Packet Tracer` `OSPF` | Simulates routers & switches with neighbor discovery, MTU validation, and fault injection. Generates neighbor tables & validation logs. Jul–Sep 2025 |
+| [**Blind Stick with 360° Navigation**](https://github.com/jeevanantham-s) | `IoT` `Servo` `Embedded Systems` `C` | Smart assistive stick with servo-mounted sensor for 360° obstacle detection. Reduced hardware cost by replacing multiple sensors with a single scanning unit. Aug 2024 |
+| [**Movie Website**](https://github.com/jeevanantham-s) | `HTML` `CSS` `Node.js` `REST API` | Dynamic movie site with real-time API-based data fetching & server-side Node.js logic. Jan 2025 |
+
+</div>
+
+---
+
+## 🏅 Achievements & Patents
+
+<div align="center">
+
+| 🎖️ | Achievement | Details |
+|:---:|:---|:---|
+| 🔬 | **Registered Design — Automatic Pill Dispenser** | Design No: **469737-001** · Filed: 14 Aug 2025 · Granted: 04 Dec 2025 · Govt. of India (Designs Act, 2000) |
+| 🤖 | **Registered Design — AI Enabled Animal Belt** | Design No: **470439-001** · Filed: 21 Aug 2025 · Granted: 05 Jan 2026 · Govt. of India (Designs Act, 2000) |
+| 🌐 | **Cisco Virtual Internship** | Networking & Cybersecurity — 2 Months |
+| 📊 | **AICTE–Shell–Edunet Internship** | AI & Data Analytics — 4 Weeks (Jul–Aug 2025) |
+| 💡 | **Solo IoT Projects** | Independent research in fault detection & network simulation tools |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| 📚 Degree | 🏫 Institution | 📅 Year | 🏆 Score |
+|:---|:---|:---:|:---:|
+| B.E. Computer Science & Engineering | Sathyabama Institute of Science and Technology, Chennai | 2023–2027 | 7.04 / 10 |
+| Higher Secondary (12th) | SMBM | March 2023 | 72% |
+
+</div>
+
+---
+
+## 🧱 Currently Learning
+
+```
+🐧 Linux          → Shell scripting, File system, Process management
+🗃️  SQL            → Queries, Joins, Indexing, Database design
+🌿 Git            → Branching, Rebase, Open source workflow
+⚡ JavaScript     → ES6+, DOM manipulation, Async/Await
+🔗 IoT Systems    → Embedded C, MQTT, Sensor integration
+```
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-jeevanantham.s2551981%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jeevanantham.s2551981@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jeevanantham--s-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jeevanantham-s)
+[![Location](https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chennai,India)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Build things that matter. Document things that last."*
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
