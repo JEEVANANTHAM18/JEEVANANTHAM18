@@ -257,7 +257,7 @@ class Jeevanantham:
 
 | 📚 Degree | 🏫 Institution | 📅 Year | 🏆 Score |
 |:---|:---|:---:|:---:|
-| B.E. Computer Science & Engineering | Sathyabama Institute of Science and Technology, Chennai | 2023–2027 | 7.04 / 10 |
+| B.E. Computer Science & Engineering | Sathyabama Institute of Science and Technology, Chennai | 2023–2027 | 7.21 / 10 |
 | Higher Secondary (12th) | SMBM | March 2023 | 72% |
 
 </div>
