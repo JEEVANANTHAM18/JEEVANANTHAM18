@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=jeevanantham-s&color=70a5fd&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=JEEVANANTHAM18&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -96,22 +96,12 @@ class Jeevanantham:
 
 <div align="center">
 
-<a href="https://github.com/jeevanantham-s">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jeevanantham-s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/JEEVANANTHAM18">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JEEVANANTHAM18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/jeevanantham-s">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanantham-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/JEEVANANTHAM18">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEEVANANTHAM18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeevanantham-s&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -121,7 +111,9 @@ class Jeevanantham:
 
 <div align="center">
 
-[![Jeevanantham's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeevanantham-s&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+> 🚀 **Contributions growing day by day** — Every commit is a step forward!
+
+[![Jeevanantham's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JEEVANANTHAM18&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -131,7 +123,72 @@ class Jeevanantham:
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=jeevanantham-s&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=JEEVANANTHAM18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📜 Registered Design Patents — Govt. of India
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 💊 Automatic Pill Dispenser
+
+```
+┌─────────────────────────────────────┐
+│  🏛️  THE PATENT OFFICE              │
+│       Government of India           │
+│       Designs Act, 2000             │
+├─────────────────────────────────────┤
+│  Design No : 469737-001             │
+│  Filed     : 14 August 2025         │
+│  Granted   : 04 December 2025       │
+│  Role      : Co-Inventor            │
+├─────────────────────────────────────┤
+│  Automated medication dispensing    │
+│  device for dosage accuracy &       │
+│  patient compliance improvement.    │
+└─────────────────────────────────────┘
+```
+
+![Patent Badge](https://img.shields.io/badge/Design%20Patent-469737--001-70a5fd?style=for-the-badge&logo=gov.uk&logoColor=white)
+![Granted](https://img.shields.io/badge/Status-GRANTED%20✓-38bdae?style=for-the-badge)
+
+</td>
+<td align="center" width="50%">
+
+### 🐾 AI Enabled Animal Belt
+
+```
+┌─────────────────────────────────────┐
+│  🏛️  THE PATENT OFFICE              │
+│       Government of India           │
+│       Designs Act, 2000             │
+├─────────────────────────────────────┤
+│  Design No : 470439-001             │
+│  Filed     : 21 August 2025         │
+│  Granted   : 05 January 2026        │
+│  Role      : Co-Inventor            │
+├─────────────────────────────────────┤
+│  AI-enabled wearable device for     │
+│  animal monitoring, tracking &      │
+│  safety using smart sensors.        │
+└─────────────────────────────────────┘
+```
+
+![Patent Badge](https://img.shields.io/badge/Design%20Patent-470439--001-bf91f3?style=for-the-badge&logo=gov.uk&logoColor=white)
+![Granted](https://img.shields.io/badge/Status-GRANTED%20✓-38bdae?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+
+> 🇮🇳 Both designs officially registered under the **Designs Act, 2000** by **The Patent Office, Government of India** — achieved as a 3rd-year undergraduate student.
 
 </div>
 
@@ -169,26 +226,26 @@ class Jeevanantham:
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |:---|:---|:---|
-| [**Fault Identification in Overhead Transmission Lines**](https://github.com/jeevanantham-s) | `IoT` `Sensors` `Embedded Systems` `Python` | IoT-enabled real-time fault detection with relay-based isolation & remote monitoring. Analysed abnormal voltage/current patterns via sensor data acquisition. Jan 2026–Present |
-| [**Network Simulation & Validation Tool**](https://github.com/jeevanantham-s) | `Python` `Multithreading` `Cisco Packet Tracer` `OSPF` | Simulates routers & switches with neighbor discovery, MTU validation, and fault injection. Generates neighbor tables & validation logs. Jul–Sep 2025 |
-| [**Blind Stick with 360° Navigation**](https://github.com/jeevanantham-s) | `IoT` `Servo` `Embedded Systems` `C` | Smart assistive stick with servo-mounted sensor for 360° obstacle detection. Reduced hardware cost by replacing multiple sensors with a single scanning unit. Aug 2024 |
-| [**Movie Website**](https://github.com/jeevanantham-s) | `HTML` `CSS` `Node.js` `REST API` | Dynamic movie site with real-time API-based data fetching & server-side Node.js logic. Jan 2025 |
+| [**Fault Identification in Overhead Transmission Lines**](https://github.com/JEEVANANTHAM18/Fault-Identification-in-Overhead-Transmission-Line) | `IoT` `Sensors` `Embedded Systems` `Python` | IoT-enabled real-time fault detection with relay-based isolation & remote monitoring. Analysed abnormal voltage/current patterns via sensor data acquisition. Jan 2026–Present |
+| [**Network Simulation & Validation Tool**](https://github.com/JEEVANANTHAM18/Network-Simulation-and-Validation-Tool) | `Python` `Multithreading` `Cisco Packet Tracer` `OSPF` | Simulates routers & switches with neighbor discovery, MTU validation, and fault injection. Generates neighbor tables & validation logs. Jul–Sep 2025 |
+| [**EV Vehicle Charge Demand**](https://github.com/JEEVANANTHAM18/EV_Vehicle_Charge_Demand) | `Python` `Pandas` `Matplotlib` `Scikit-learn` | Predictive analysis of EV charging demand patterns using ML models and data visualisation. |
+| [**Diabetes Prediction**](https://github.com/JEEVANANTHAM18/Diabetes-Prediction) | `Python` `Scikit-learn` `Pandas` `ML` | Machine learning model to predict diabetes risk using clinical dataset features and classification algorithms. |
 
 </div>
 
 ---
 
-## 🏅 Achievements & Patents
+## 🏅 Achievements
 
 <div align="center">
 
 | 🎖️ | Achievement | Details |
 |:---:|:---|:---|
-| 🔬 | **Registered Design — Automatic Pill Dispenser** | Design No: **469737-001** · Filed: 14 Aug 2025 · Granted: 04 Dec 2025 · Govt. of India (Designs Act, 2000) |
-| 🤖 | **Registered Design — AI Enabled Animal Belt** | Design No: **470439-001** · Filed: 21 Aug 2025 · Granted: 05 Jan 2026 · Govt. of India (Designs Act, 2000) |
+| 🔬 | **Registered Design — Automatic Pill Dispenser** | Design No: **469737-001** · Filed: 14 Aug 2025 · Granted: 04 Dec 2025 · Govt. of India |
+| 🤖 | **Registered Design — AI Enabled Animal Belt** | Design No: **470439-001** · Filed: 21 Aug 2025 · Granted: 05 Jan 2026 · Govt. of India |
 | 🌐 | **Cisco Virtual Internship** | Networking & Cybersecurity — 2 Months |
 | 📊 | **AICTE–Shell–Edunet Internship** | AI & Data Analytics — 4 Weeks (Jul–Aug 2025) |
-| 💡 | **Solo IoT Projects** | Independent research in fault detection & network simulation tools |
+| 💡 | **Solo IoT & ML Projects** | Independent research across fault detection, EV demand, and medical ML |
 
 </div>
 
@@ -224,7 +281,7 @@ class Jeevanantham:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-jeevanantham.s2551981%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jeevanantham.s2551981@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-jeevanantham--s-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jeevanantham-s)
+[![GitHub](https://img.shields.io/badge/GitHub-JEEVANANTHAM18-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JEEVANANTHAM18)
 [![Location](https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chennai,India)
 
 </div>
