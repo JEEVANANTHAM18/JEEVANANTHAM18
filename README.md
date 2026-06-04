@@ -102,31 +102,6 @@ class Jeevanantham:
 <a href="https://github.com/JEEVANANTHAM18">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEEVANANTHAM18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-> 🚀 **Contributions growing day by day** — Every commit is a step forward!
-
-[![Jeevanantham's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JEEVANANTHAM18&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=JEEVANANTHAM18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 📜 Registered Design Patents — Govt. of India
