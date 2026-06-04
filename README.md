@@ -245,7 +245,6 @@ class Jeevanantham:
 <div align="center">
     
 [![Email](https://img.shields.io/badge/Email-jeevanantham.s2551981%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)]
-(mailto:jeevanantham.s2551981@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-JEEVANANTHAM18-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JEEVANANTHAM18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jeevanantham--s-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevanantham-s-5a24ab289/)
 [![Location](https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chennai,India)
